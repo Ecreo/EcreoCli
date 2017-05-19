@@ -1,0 +1,22 @@
+{
+  "name": "ecreo-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ecreo": "bin/ecreo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://ecreo.visualstudio.com/DefaultCollection/EcreoBase/_git/EcreoBase.Cli"
+  },
+  "description": "",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "shelljs": "^0.7.7"
+  }
+}
