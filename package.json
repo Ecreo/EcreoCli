@@ -16,6 +16,7 @@
   },
   "description": "",
   "dependencies": {
+    "guid": "0.0.12",
     "prompt": "^1.0.0",
     "shelljs": "^0.7.7"
   }
